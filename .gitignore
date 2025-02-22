@@ -1,0 +1,11 @@
+# Ignore arquivos de build
+build
+
+# Ignore arquivos vscode
+.vscode
+
+# Ignore credenciais
+config/credentials.h
+
+# Não ignore o exemplo de credenciais
+!config/credentials_example.h
